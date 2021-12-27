@@ -1,0 +1,4 @@
+References
+[1] Hall, T. M. T., Porter, J. A., Beachy, P. A., & Leahy, D. J. (1995). A potential catalytic site revealed by the 1.7-Å crystal structure of the amino-terminal signalling domain of Sonic hedgehog. Nature, 378(6553), 212–216. doi:10.1038/378212a0 https://www.nature.com/articles/378212a0 
+[2] Naoyuki Fuse, Tapan Maiti, Baolin Wang, Jeffery A. Porter, Traci M. Tanaka Hall, Daniel J. Leahy, Philip A. Beachy, Sonic hedgehog protein signals not as a hydrolytic enzyme but as an apparent ligand for Patched. Proceedings of the National Academy of Sciences Sep 1999, 96 (20) 10992-10999; DOI: 10.1073/pnas.96.20.10992 https://www.pnas.org/content/96/20/10992 
+[3] Raymond Teck Ho Lee, Zhonghua Zhao, Philip W. Ingham, Hedgehog signalling. Development 2016 143: 367-372; doi: 10.1242/dev.120154 https://dev.biologists.org/content/143/3/367 
