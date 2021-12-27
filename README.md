@@ -1,3 +1,8 @@
-# structural_bioinformatics
+# Structural Bioinformatics
 This Repository includes projects &amp; academic writings that discuss protein structure &amp; their analysis.
-Skills include: Chimera
+
+Skills include:
+Working with Chimera
+
+Knowledge Required:
+Understanding of Protein Structure
